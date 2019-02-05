@@ -280,6 +280,11 @@ mime-types@^2.1.12, mime-types@~2.1.19:
   dependencies:
     mime-db "~1.37.0"
 
+minimal-request-promise@^1.5.0:
+  version "1.5.0"
+  resolved "https://registry.yarnpkg.com/minimal-request-promise/-/minimal-request-promise-1.5.0.tgz#60f5d7f55b4026d197074e2e155626d4cc5c2ebc"
+  integrity sha1-YPXX9VtAJtGXB04uFVYm1MxcLrw=
+
 mongodb-core@3.1.9:
   version "3.1.9"
   resolved "https://registry.yarnpkg.com/mongodb-core/-/mongodb-core-3.1.9.tgz#c31ee407bf932b0149eaed775c17ee09974e4ca3"
